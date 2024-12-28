@@ -1,0 +1,45 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Zoe and Ben opened the puzzle book to a page showing rows of trees. Skip count backwards by 100s starting from 400 and fill in the missing numbers.",
+    "options":["400","","",""],
+    "answers": ["400","300","200","100"]
+  },
+  {
+    "questionNo": 2,
+    "question": "A puzzle about hills asked Zoe and Ben to skip count backwards by 100s from 625. Fill in the missing numbers.",
+    "options":["625","","",""],
+    "answers": ["625","525","425","325"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "n a puzzle about the stream, they had to skip count backwards by 100s starting from 570. Fill in the missing numbers.",
+    "options":["570","","",""],
+    "answers": ["570","470","370","270"]
+  },
+  {
+    "questionNo": 4,
+    "question": "The puzzle about cottages asked Zoe and Ben to skip count backwards by 100s starting from 454. Fill in the missing numbers.",
+    "options":["454","","",""],
+    "answers": ["454","354","254","154"]
+  },
+  {
+    "questionNo": 5,
+    "question": "The puzzle about windmills asked them to skip count backwards by 100s starting from 399. Fill in the missing numbers.",
+    "options":["399","","",""],
+    "answers": ["399","299","199","99"]
+  },
+  {
+    "questionNo": 6,
+    "question": "The puzzle about vegetable gardens asked them to skip count backwards by 100s starting from 1400. Fill in the missing numbers.",
+    "options":["1400","","",""],
+    "answers": ["1400","1300","1200","1100"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Zoe and Ben saw rows of sunflowers in a puzzle. Skip count backwards by 100s starting from 1850 and fill in the missing numbers.",
+    "options":["1850","","",""],
+    "answers": ["1850","1750","1650","1550"]
+  }
+]

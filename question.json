@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Maddy saw a shelf with rows of juice bottles. Skip count by 5s to find the total bottles of juice.<br><img width='50%' src='./images/6.png'>",
+        "options": [
+            "20",
+            "10",
+            "15",
+            "25"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "John noticed a stack of snack packs arranged in groups. Skip count by 5s to find how many snack packs there are.<br><img width='50%' src='./images/7.png'>",
+        "options": [
+            "20",
+            "25",
+            "15",
+            "10"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "In the bakery section, Maddy saw trays of muffins, each holding 5 muffins. Skip count by 5s to find the total number of muffins.<br><img width='50%' src='./images/8.png'>",
+        "options": [
+            "25",
+            "35",
+            "30",
+            "20"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "John looked at a cooler filled with cartons of milk arranged in rows of 5. Skip count by 5s to find the total number of cartons.<br><img width='50%' src='./images/9.png'>",
+        "options": [
+            "20",
+            "15",
+            "25",
+            "30"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Near the pasta aisle, Maddy saw bundles of noodles. Skip count by 5s to find the total number of bundles.<br><img width='50%' src='./images/10.png'>",
+        "options": [
+            "20",
+            "10",
+            "15",
+            "25"
+        ],
+        "correct": 0
+    }
+]

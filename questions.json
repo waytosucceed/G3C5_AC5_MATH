@@ -1,0 +1,59 @@
+[
+  {
+    "questionNo": 1,
+    "question": "The puzzle book showed birds flying above. Skip count by 100s and fill in the missing numbers.",
+    "options":["160","","360","","560","","760"],
+    "answers": ["160","260","360","460","560","660","760"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 2,
+    "question": "A puzzle about sheep grazing on the hill asked them to skip count by 100s and fill in the missing numbers.",
+    "options":["206","","","","606","706","806"],
+    "answers": ["206","306","406","506","606","706","806"],
+    "secondImg":"./images/1.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "A puzzle about the oak tree challenged Zoe and Ben to skip count by 100s and fill in the missing numbers.",
+    "options":["200","","400","","600","","800"],
+    "answers": ["200","300","400","500","600","700","800"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "The puzzle about pumpkins asked them to skip count by skip count by 100s and fill in the missing numbers.",
+    "options":["421","","","","821","921","1021"],
+    "answers": ["421","521","621","721","821","921","1021"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": " Zoe and Ben saw windmills in a puzzle. Skip count by 100s and fill in the missing numbers.",
+    "options":["333","","533","633","","","933"],
+    "answers": ["333","433","533","633","733","833","933"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "The puzzle about fields of flowers asked them to  Skip count by 100s and fill in the missing numbers.",
+    "options":["921","","1121","","1321","","1521"],
+    "answers": ["921","1021","1121","1221","1321","1421","1521"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "A puzzle about the sparkling stream challenged Zoe and Ben to skip count by 100s and fill in the missing numbers.",
+    "options":["648","","848","","","1148","1248"],
+    "answers": ["648","748","848","948","1048","1148","1248"],
+    "secondImg":"./images/1.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "The last puzzle in the book was about rows of vegetables. Skip count by 100s and fill in the missing numbers.",
+    "options":["1313","","1513","","1713","","1913"],
+    "answers": ["1313","1413","1513","1613","1713","1813","1913"],
+    "secondImg":"./images/1.jpg"
+  }
+]
